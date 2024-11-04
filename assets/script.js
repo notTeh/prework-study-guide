@@ -14,9 +14,9 @@ function selectTopic() {
         console.log("Let's study HTML!");
     } else if (randomTopic === 'CSS') {
         console.log("Let's study CSS!");
-    } else if (randomTopics === 'Git') {
+    } else if (randomTopic === 'Git') {
         console.log("Let's study Git!");
-    } else if (randomTopics === 'JavaScript') {
+    } else if (randomTopic === 'JavaScript') {
         console.log("Let's study JavasScript!");
     } else {
         console.log('Please try again!');
